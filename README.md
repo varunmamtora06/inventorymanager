@@ -13,7 +13,7 @@
 - (Main Course)[https://www.youtube.com/channel/UCqPBdaAJ5gPvM7C4fbma0CA]
 
 **Git Basics**
-- [https://www.youtube.com/watch?v=SWYqp7iY_Tc]
+- [TraversyMedia](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 ## Tech Used
 
