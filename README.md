@@ -44,3 +44,17 @@
 - I was stuck on an issue which was that I was unable to acess the Django '/admin' login page because my Django version was 3.0+ but python was 3.7+ to fix this issue i updated my python to 3.8+
 
 solution found on - https://stackoverflow.com/questions/59230667/django-server-stops-immediatly-after-login-into-admin-page
+
+## Following are the screenshots
+
+1. View
+
+![View](https://github.com/varunmamtora06/inventorymanager/blob/master/Screenshot1.png)
+
+2. EditItem View
+
+![edititem](https://github.com/varunmamtora06/inventorymanager/blob/master/Screenshot2.png)
+
+3. AddItem View
+
+![additem](https://github.com/varunmamtora06/inventorymanager/blob/master/Screenshot3.png)
