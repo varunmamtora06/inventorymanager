@@ -14,6 +14,7 @@
 
 **Git Basics**
 - [TraversyMedia](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 
 ## Tech Used
 
